@@ -1,0 +1,30 @@
+[33mcommit 54226ceff0cd172597870859552a8d385cc6c2e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 0820d01 c0d75e2
+Author: Vadim <sajdurovvadim84@gmail.com>
+Date:   Mon Mar 16 13:02:57 2026 +0500
+
+    Merge branch 'testing'
+
+[33mcommit 0820d016bee349843b6b49ea179c4b48e22396a8[m[33m ([m[1;32mhotfix[m[33m)[m
+Author: Vadim <sajdurovvadim84@gmail.com>
+Date:   Mon Mar 16 12:53:02 2026 +0500
+
+    Создали красную кнопку
+
+[33mcommit 087a42cd5a51747b6a9533ff72faedeece7034f8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Шагимарданов Тимур <schagimardanov.timur@yandex.ru>
+Date:   Thu Mar 12 13:27:37 2026 +0500
+
+    Коммит в ветке master
+
+[33mcommit c0d75e2ddfe9b676d4911da7f3ef4f0a094b2ed0[m[33m ([m[1;31morigin/testing[m[33m, [m[1;32mtesting[m[33m)[m
+Author: Шагимарданов Тимур <schagimardanov.timur@yandex.ru>
+Date:   Thu Mar 12 13:19:21 2026 +0500
+
+    Коммит в ветке testing
+
+[33mcommit 3fda5cb92fd791aeb66a01405464a0f73ae7a804[m
+Author: Шагимарданов Тимур <schagimardanov.timur@yandex.ru>
+Date:   Thu Mar 12 13:07:13 2026 +0500
+
+    Первый коммит
